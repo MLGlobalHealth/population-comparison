@@ -1,0 +1,771 @@
+year,data_source,region,sex,age,population
+2017,census,lesotho,female,0,110349.0
+2017,census,lesotho,female,5,103567.0
+2017,census,lesotho,female,10,100239.0
+2017,census,lesotho,female,15,95520.0
+2017,census,lesotho,female,20,85812.0
+2017,census,lesotho,female,25,85353.0
+2017,census,lesotho,female,30,86227.0
+2017,census,lesotho,female,35,76439.0
+2017,census,lesotho,female,40,52227.0
+2017,census,lesotho,female,45,35718.0
+2017,census,lesotho,female,50,30688.0
+2017,census,lesotho,female,55,28569.0
+2017,census,lesotho,female,60,23921.0
+2017,census,lesotho,female,65,19641.0
+2017,census,lesotho,female,70,15074.0
+2017,census,lesotho,female,75,10624.0
+2017,census,lesotho,female,80,10465.0
+2017,census,lesotho,male,0,109018.0
+2017,census,lesotho,male,5,102376.0
+2017,census,lesotho,male,10,101475.0
+2017,census,lesotho,male,15,100355.0
+2017,census,lesotho,male,20,98684.0
+2017,census,lesotho,male,25,102046.0
+2017,census,lesotho,male,30,99339.0
+2017,census,lesotho,male,35,77546.0
+2017,census,lesotho,male,40,43967.0
+2017,census,lesotho,male,45,30040.0
+2017,census,lesotho,male,50,27063.0
+2017,census,lesotho,male,55,25321.0
+2017,census,lesotho,male,60,20507.0
+2017,census,lesotho,male,65,16678.0
+2017,census,lesotho,male,70,12734.0
+2017,census,lesotho,male,75,10381.0
+2017,census,lesotho,male,80,12671.0
+2017,census,Berea,female,0,6493.0
+2017,census,Berea,female,5,6215.0
+2017,census,Berea,female,10,5956.0
+2017,census,Berea,female,15,5265.0
+2017,census,Berea,female,20,4777.0
+2017,census,Berea,female,25,5008.0
+2017,census,Berea,female,30,5153.0
+2017,census,Berea,female,35,4512.0
+2017,census,Berea,female,40,3063.0
+2017,census,Berea,female,45,2042.0
+2017,census,Berea,female,50,1875.0
+2017,census,Berea,female,55,1815.0
+2017,census,Berea,female,60,1477.0
+2017,census,Berea,female,65,1249.0
+2017,census,Berea,female,70,945.0
+2017,census,Berea,female,75,657.0
+2017,census,Berea,female,80,679.0
+2017,census,Berea,male,0,6549.0
+2017,census,Berea,male,5,6431.0
+2017,census,Berea,male,10,6164.0
+2017,census,Berea,male,15,5837.0
+2017,census,Berea,male,20,5578.0
+2017,census,Berea,male,25,5791.0
+2017,census,Berea,male,30,5686.0
+2017,census,Berea,male,35,4362.0
+2017,census,Berea,male,40,2480.0
+2017,census,Berea,male,45,1742.0
+2017,census,Berea,male,50,1639.0
+2017,census,Berea,male,55,1520.0
+2017,census,Berea,male,60,1274.0
+2017,census,Berea,male,65,1029.0
+2017,census,Berea,male,70,854.0
+2017,census,Berea,male,75,588.0
+2017,census,Berea,male,80,761.0
+2017,census,Butha-Buthe,female,0,18504.0
+2017,census,Butha-Buthe,female,5,17715.0
+2017,census,Butha-Buthe,female,10,16525.0
+2017,census,Butha-Buthe,female,15,16235.0
+2017,census,Butha-Buthe,female,20,14443.0
+2017,census,Butha-Buthe,female,25,14630.0
+2017,census,Butha-Buthe,female,30,14943.0
+2017,census,Butha-Buthe,female,35,13143.0
+2017,census,Butha-Buthe,female,40,8874.0
+2017,census,Butha-Buthe,female,45,6319.0
+2017,census,Butha-Buthe,female,50,5365.0
+2017,census,Butha-Buthe,female,55,5005.0
+2017,census,Butha-Buthe,female,60,4119.0
+2017,census,Butha-Buthe,female,65,3305.0
+2017,census,Butha-Buthe,female,70,2499.0
+2017,census,Butha-Buthe,female,75,1796.0
+2017,census,Butha-Buthe,female,80,1814.0
+2017,census,Butha-Buthe,male,0,18196.0
+2017,census,Butha-Buthe,male,5,17221.0
+2017,census,Butha-Buthe,male,10,16981.0
+2017,census,Butha-Buthe,male,15,16886.0
+2017,census,Butha-Buthe,male,20,16783.0
+2017,census,Butha-Buthe,male,25,17657.0
+2017,census,Butha-Buthe,male,30,17272.0
+2017,census,Butha-Buthe,male,35,13455.0
+2017,census,Butha-Buthe,male,40,7619.0
+2017,census,Butha-Buthe,male,45,5286.0
+2017,census,Butha-Buthe,male,50,4601.0
+2017,census,Butha-Buthe,male,55,4428.0
+2017,census,Butha-Buthe,male,60,3487.0
+2017,census,Butha-Buthe,male,65,2771.0
+2017,census,Butha-Buthe,male,70,2090.0
+2017,census,Butha-Buthe,male,75,1584.0
+2017,census,Butha-Buthe,male,80,2033.0
+2017,census,Leribe,female,0,14200.0
+2017,census,Leribe,female,5,13112.0
+2017,census,Leribe,female,10,12709.0
+2017,census,Leribe,female,15,12253.0
+2017,census,Leribe,female,20,11175.0
+2017,census,Leribe,female,25,10910.0
+2017,census,Leribe,female,30,11208.0
+2017,census,Leribe,female,35,10090.0
+2017,census,Leribe,female,40,6927.0
+2017,census,Leribe,female,45,4955.0
+2017,census,Leribe,female,50,4322.0
+2017,census,Leribe,female,55,4152.0
+2017,census,Leribe,female,60,3379.0
+2017,census,Leribe,female,65,2536.0
+2017,census,Leribe,female,70,1977.0
+2017,census,Leribe,female,75,1425.0
+2017,census,Leribe,female,80,1259.0
+2017,census,Leribe,male,0,13997.0
+2017,census,Leribe,male,5,13107.0
+2017,census,Leribe,male,10,12745.0
+2017,census,Leribe,male,15,12972.0
+2017,census,Leribe,male,20,12422.0
+2017,census,Leribe,male,25,13045.0
+2017,census,Leribe,male,30,13199.0
+2017,census,Leribe,male,35,10357.0
+2017,census,Leribe,male,40,5938.0
+2017,census,Leribe,male,45,4333.0
+2017,census,Leribe,male,50,3798.0
+2017,census,Leribe,male,55,3563.0
+2017,census,Leribe,male,60,2805.0
+2017,census,Leribe,male,65,2175.0
+2017,census,Leribe,male,70,1640.0
+2017,census,Leribe,male,75,1334.0
+2017,census,Leribe,male,80,1530.0
+2017,census,Mafeteng,female,0,28359.0
+2017,census,Mafeteng,female,5,24697.0
+2017,census,Mafeteng,female,10,23558.0
+2017,census,Mafeteng,female,15,23016.0
+2017,census,Mafeteng,female,20,23735.0
+2017,census,Mafeteng,female,25,23945.0
+2017,census,Mafeteng,female,30,24380.0
+2017,census,Mafeteng,female,35,22314.0
+2017,census,Mafeteng,female,40,15105.0
+2017,census,Mafeteng,female,45,9957.0
+2017,census,Mafeteng,female,50,7905.0
+2017,census,Mafeteng,female,55,6739.0
+2017,census,Mafeteng,female,60,5498.0
+2017,census,Mafeteng,female,65,4293.0
+2017,census,Mafeteng,female,70,3125.0
+2017,census,Mafeteng,female,75,2098.0
+2017,census,Mafeteng,female,80,2094.0
+2017,census,Mafeteng,male,0,27677.0
+2017,census,Mafeteng,male,5,24231.0
+2017,census,Mafeteng,male,10,23653.0
+2017,census,Mafeteng,male,15,25537.0
+2017,census,Mafeteng,male,20,29944.0
+2017,census,Mafeteng,male,25,31251.0
+2017,census,Mafeteng,male,30,30046.0
+2017,census,Mafeteng,male,35,23942.0
+2017,census,Mafeteng,male,40,12731.0
+2017,census,Mafeteng,male,45,8176.0
+2017,census,Mafeteng,male,50,6771.0
+2017,census,Mafeteng,male,55,6078.0
+2017,census,Mafeteng,male,60,4700.0
+2017,census,Mafeteng,male,65,3867.0
+2017,census,Mafeteng,male,70,2706.0
+2017,census,Mafeteng,male,75,2190.0
+2017,census,Mafeteng,male,80,2418.0
+2017,census,Maseru,female,0,9277.0
+2017,census,Maseru,female,5,8731.0
+2017,census,Maseru,female,10,8949.0
+2017,census,Maseru,female,15,8831.0
+2017,census,Maseru,female,20,7419.0
+2017,census,Maseru,female,25,7481.0
+2017,census,Maseru,female,30,7244.0
+2017,census,Maseru,female,35,6361.0
+2017,census,Maseru,female,40,4404.0
+2017,census,Maseru,female,45,3013.0
+2017,census,Maseru,female,50,2828.0
+2017,census,Maseru,female,55,2824.0
+2017,census,Maseru,female,60,2334.0
+2017,census,Maseru,female,65,2307.0
+2017,census,Maseru,female,70,1492.0
+2017,census,Maseru,female,75,1087.0
+2017,census,Maseru,female,80,1097.0
+2017,census,Maseru,male,0,9067.0
+2017,census,Maseru,male,5,8626.0
+2017,census,Maseru,male,10,8919.0
+2017,census,Maseru,male,15,8792.0
+2017,census,Maseru,male,20,7596.0
+2017,census,Maseru,male,25,7997.0
+2017,census,Maseru,male,30,7923.0
+2017,census,Maseru,male,35,6183.0
+2017,census,Maseru,male,40,3689.0
+2017,census,Maseru,male,45,2570.0
+2017,census,Maseru,male,50,2516.0
+2017,census,Maseru,male,55,2511.0
+2017,census,Maseru,male,60,2183.0
+2017,census,Maseru,male,65,1737.0
+2017,census,Maseru,male,70,1270.0
+2017,census,Maseru,male,75,1102.0
+2017,census,Maseru,male,80,1262.0
+2017,census,Mohale's Hoek,female,0,8707.0
+2017,census,Mohale's Hoek,female,5,8509.0
+2017,census,Mohale's Hoek,female,10,8430.0
+2017,census,Mohale's Hoek,female,15,7991.0
+2017,census,Mohale's Hoek,female,20,6815.0
+2017,census,Mohale's Hoek,female,25,6673.0
+2017,census,Mohale's Hoek,female,30,6683.0
+2017,census,Mohale's Hoek,female,35,5574.0
+2017,census,Mohale's Hoek,female,40,3922.0
+2017,census,Mohale's Hoek,female,45,2707.0
+2017,census,Mohale's Hoek,female,50,2507.0
+2017,census,Mohale's Hoek,female,55,2550.0
+2017,census,Mohale's Hoek,female,60,2264.0
+2017,census,Mohale's Hoek,female,65,1815.0
+2017,census,Mohale's Hoek,female,70,1432.0
+2017,census,Mohale's Hoek,female,75,979.0
+2017,census,Mohale's Hoek,female,80,974.0
+2017,census,Mohale's Hoek,male,0,8773.0
+2017,census,Mohale's Hoek,male,5,8518.0
+2017,census,Mohale's Hoek,male,10,8709.0
+2017,census,Mohale's Hoek,male,15,8097.0
+2017,census,Mohale's Hoek,male,20,7469.0
+2017,census,Mohale's Hoek,male,25,7560.0
+2017,census,Mohale's Hoek,male,30,7245.0
+2017,census,Mohale's Hoek,male,35,5477.0
+2017,census,Mohale's Hoek,male,40,3315.0
+2017,census,Mohale's Hoek,male,45,2443.0
+2017,census,Mohale's Hoek,male,50,2395.0
+2017,census,Mohale's Hoek,male,55,2279.0
+2017,census,Mohale's Hoek,male,60,1862.0
+2017,census,Mohale's Hoek,male,65,1596.0
+2017,census,Mohale's Hoek,male,70,1260.0
+2017,census,Mohale's Hoek,male,75,1060.0
+2017,census,Mohale's Hoek,male,80,1351.0
+2017,census,Mokhotlong,female,0,6265.0
+2017,census,Mokhotlong,female,5,5988.0
+2017,census,Mokhotlong,female,10,6103.0
+2017,census,Mokhotlong,female,15,5721.0
+2017,census,Mokhotlong,female,20,4928.0
+2017,census,Mokhotlong,female,25,4781.0
+2017,census,Mokhotlong,female,30,4666.0
+2017,census,Mokhotlong,female,35,3790.0
+2017,census,Mokhotlong,female,40,2553.0
+2017,census,Mokhotlong,female,45,1812.0
+2017,census,Mokhotlong,female,50,1667.0
+2017,census,Mokhotlong,female,55,1567.0
+2017,census,Mokhotlong,female,60,1435.0
+2017,census,Mokhotlong,female,65,1205.0
+2017,census,Mokhotlong,female,70,974.0
+2017,census,Mokhotlong,female,75,691.0
+2017,census,Mokhotlong,female,80,562.0
+2017,census,Mokhotlong,male,0,6235.0
+2017,census,Mokhotlong,male,5,5978.0
+2017,census,Mokhotlong,male,10,6056.0
+2017,census,Mokhotlong,male,15,5882.0
+2017,census,Mokhotlong,male,20,5471.0
+2017,census,Mokhotlong,male,25,5399.0
+2017,census,Mokhotlong,male,30,5028.0
+2017,census,Mokhotlong,male,35,3696.0
+2017,census,Mokhotlong,male,40,2178.0
+2017,census,Mokhotlong,male,45,1566.0
+2017,census,Mokhotlong,male,50,1563.0
+2017,census,Mokhotlong,male,55,1498.0
+2017,census,Mokhotlong,male,60,1267.0
+2017,census,Mokhotlong,male,65,1028.0
+2017,census,Mokhotlong,male,70,834.0
+2017,census,Mokhotlong,male,75,745.0
+2017,census,Mokhotlong,male,80,905.0
+2017,census,Qacha's Nek,female,0,4249.0
+2017,census,Qacha's Nek,female,5,4169.0
+2017,census,Qacha's Nek,female,10,4100.0
+2017,census,Qacha's Nek,female,15,3931.0
+2017,census,Qacha's Nek,female,20,3072.0
+2017,census,Qacha's Nek,female,25,2960.0
+2017,census,Qacha's Nek,female,30,3023.0
+2017,census,Qacha's Nek,female,35,2621.0
+2017,census,Qacha's Nek,female,40,1692.0
+2017,census,Qacha's Nek,female,45,1175.0
+2017,census,Qacha's Nek,female,50,1106.0
+2017,census,Qacha's Nek,female,55,1063.0
+2017,census,Qacha's Nek,female,60,864.0
+2017,census,Qacha's Nek,female,65,719.0
+2017,census,Qacha's Nek,female,70,602.0
+2017,census,Qacha's Nek,female,75,383.0
+2017,census,Qacha's Nek,female,80,431.0
+2017,census,Qacha's Nek,male,0,4269.0
+2017,census,Qacha's Nek,male,5,4041.0
+2017,census,Qacha's Nek,male,10,4213.0
+2017,census,Qacha's Nek,male,15,3932.0
+2017,census,Qacha's Nek,male,20,3375.0
+2017,census,Qacha's Nek,male,25,3513.0
+2017,census,Qacha's Nek,male,30,3481.0
+2017,census,Qacha's Nek,male,35,2526.0
+2017,census,Qacha's Nek,male,40,1449.0
+2017,census,Qacha's Nek,male,45,1017.0
+2017,census,Qacha's Nek,male,50,966.0
+2017,census,Qacha's Nek,male,55,931.0
+2017,census,Qacha's Nek,male,60,729.0
+2017,census,Qacha's Nek,male,65,650.0
+2017,census,Qacha's Nek,male,70,484.0
+2017,census,Qacha's Nek,male,75,426.0
+2017,census,Qacha's Nek,male,80,624.0
+2017,census,Quthing,female,0,6063.0
+2017,census,Quthing,female,5,6149.0
+2017,census,Quthing,female,10,6023.0
+2017,census,Quthing,female,15,5153.0
+2017,census,Quthing,female,20,4029.0
+2017,census,Quthing,female,25,3874.0
+2017,census,Quthing,female,30,3847.0
+2017,census,Quthing,female,35,3478.0
+2017,census,Quthing,female,40,2391.0
+2017,census,Quthing,female,45,1521.0
+2017,census,Quthing,female,50,1294.0
+2017,census,Quthing,female,55,1199.0
+2017,census,Quthing,female,60,1057.0
+2017,census,Quthing,female,65,934.0
+2017,census,Quthing,female,70,774.0
+2017,census,Quthing,female,75,523.0
+2017,census,Quthing,female,80,614.0
+2017,census,Quthing,male,0,5930.0
+2017,census,Quthing,male,5,5931.0
+2017,census,Quthing,male,10,6163.0
+2017,census,Quthing,male,15,5487.0
+2017,census,Quthing,male,20,4462.0
+2017,census,Quthing,male,25,4178.0
+2017,census,Quthing,male,30,4098.0
+2017,census,Quthing,male,35,3235.0
+2017,census,Quthing,male,40,1956.0
+2017,census,Quthing,male,45,1221.0
+2017,census,Quthing,male,50,1199.0
+2017,census,Quthing,male,55,1029.0
+2017,census,Quthing,male,60,935.0
+2017,census,Quthing,male,65,753.0
+2017,census,Quthing,male,70,662.0
+2017,census,Quthing,male,75,511.0
+2017,census,Quthing,male,80,704.0
+2017,census,Thaba-Tseka,female,0,8232.0
+2017,census,Thaba-Tseka,female,5,8282.0
+2017,census,Thaba-Tseka,female,10,7886.0
+2017,census,Thaba-Tseka,female,15,7124.0
+2017,census,Thaba-Tseka,female,20,5419.0
+2017,census,Thaba-Tseka,female,25,5091.0
+2017,census,Thaba-Tseka,female,30,5080.0
+2017,census,Thaba-Tseka,female,35,4556.0
+2017,census,Thaba-Tseka,female,40,3296.0
+2017,census,Thaba-Tseka,female,45,2217.0
+2017,census,Thaba-Tseka,female,50,1819.0
+2017,census,Thaba-Tseka,female,55,1655.0
+2017,census,Thaba-Tseka,female,60,1494.0
+2017,census,Thaba-Tseka,female,65,1278.0
+2017,census,Thaba-Tseka,female,70,1254.0
+2017,census,Thaba-Tseka,female,75,985.0
+2017,census,Thaba-Tseka,female,80,941.0
+2017,census,Thaba-Tseka,male,0,8325.0
+2017,census,Thaba-Tseka,male,5,8292.0
+2017,census,Thaba-Tseka,male,10,7872.0
+2017,census,Thaba-Tseka,male,15,6933.0
+2017,census,Thaba-Tseka,male,20,5584.0
+2017,census,Thaba-Tseka,male,25,5655.0
+2017,census,Thaba-Tseka,male,30,5361.0
+2017,census,Thaba-Tseka,male,35,4313.0
+2017,census,Thaba-Tseka,male,40,2612.0
+2017,census,Thaba-Tseka,male,45,1686.0
+2017,census,Thaba-Tseka,male,50,1615.0
+2017,census,Thaba-Tseka,male,55,1484.0
+2017,census,Thaba-Tseka,male,60,1265.0
+2017,census,Thaba-Tseka,male,65,1072.0
+2017,census,Thaba-Tseka,male,70,934.0
+2017,census,Thaba-Tseka,male,75,841.0
+2017,census,Thaba-Tseka,male,80,1083.0
+2020,worldpop,lesotho,female,0,22997.29
+2020,worldpop,lesotho,female,5,111130.84
+2020,worldpop,lesotho,female,10,101434.62
+2020,worldpop,lesotho,female,15,100822.58
+2020,worldpop,lesotho,female,20,105477.66
+2020,worldpop,lesotho,female,25,97412.48
+2020,worldpop,lesotho,female,30,85189.195
+2020,worldpop,lesotho,female,35,64652.305
+2020,worldpop,lesotho,female,40,42339.957
+2020,worldpop,lesotho,female,45,28763.416
+2020,worldpop,lesotho,female,50,22160.996
+2020,worldpop,lesotho,female,55,18955.322
+2020,worldpop,lesotho,female,60,17810.582
+2020,worldpop,lesotho,female,65,15832.272
+2020,worldpop,lesotho,female,70,11705.637
+2020,worldpop,lesotho,female,75,6758.156
+2020,worldpop,lesotho,female,80,6989.464
+2020,worldpop,lesotho,male,0,23575.766
+2020,worldpop,lesotho,male,5,112633.8
+2020,worldpop,lesotho,male,10,100521.375
+2020,worldpop,lesotho,male,15,94821.21
+2020,worldpop,lesotho,male,20,92203.63
+2020,worldpop,lesotho,male,25,83520.97
+2020,worldpop,lesotho,male,30,75345.61
+2020,worldpop,lesotho,male,35,64218.184
+2020,worldpop,lesotho,male,40,46632.65
+2020,worldpop,lesotho,male,45,32295.271
+2020,worldpop,lesotho,male,50,24595.42
+2020,worldpop,lesotho,male,55,21332.562
+2020,worldpop,lesotho,male,60,20746.82
+2020,worldpop,lesotho,male,65,18383.379
+2020,worldpop,lesotho,male,70,13028.072
+2020,worldpop,lesotho,male,75,6677.6973
+2020,worldpop,lesotho,male,80,5664.9673
+2020,worldpop,Berea,female,0,3299.24
+2020,worldpop,Berea,female,5,16388.32
+2020,worldpop,Berea,female,10,15131.29
+2020,worldpop,Berea,female,15,15289.68
+2020,worldpop,Berea,female,20,15872.93
+2020,worldpop,Berea,female,25,14529.34
+2020,worldpop,Berea,female,30,12844.72
+2020,worldpop,Berea,female,35,10185.04
+2020,worldpop,Berea,female,40,6694.23
+2020,worldpop,Berea,female,45,4519.78
+2020,worldpop,Berea,female,50,3354.12
+2020,worldpop,Berea,female,55,2799.31
+2020,worldpop,Berea,female,60,2713.2
+2020,worldpop,Berea,female,65,2363.8
+2020,worldpop,Berea,female,70,1582.79
+2020,worldpop,Berea,female,75,1009.75
+2020,worldpop,Berea,female,80,1011.31
+2020,worldpop,Berea,male,0,3415.4
+2020,worldpop,Berea,male,5,16370.44
+2020,worldpop,Berea,male,10,15282.43
+2020,worldpop,Berea,male,15,14160.82
+2020,worldpop,Berea,male,20,13970.79
+2020,worldpop,Berea,male,25,12126.73
+2020,worldpop,Berea,male,30,11212.86
+2020,worldpop,Berea,male,35,9779.64
+2020,worldpop,Berea,male,40,7432.13
+2020,worldpop,Berea,male,45,5312.02
+2020,worldpop,Berea,male,50,3720.82
+2020,worldpop,Berea,male,55,3108.13
+2020,worldpop,Berea,male,60,3096.13
+2020,worldpop,Berea,male,65,2840.02
+2020,worldpop,Berea,male,70,1769.65
+2020,worldpop,Berea,male,75,935.18
+2020,worldpop,Berea,male,80,795.77
+2020,worldpop,Butha-Buthe,female,0,1345.23
+2020,worldpop,Butha-Buthe,female,5,6369.8
+2020,worldpop,Butha-Buthe,female,10,6035.6
+2020,worldpop,Butha-Buthe,female,15,5941.2
+2020,worldpop,Butha-Buthe,female,20,5973.8
+2020,worldpop,Butha-Buthe,female,25,5396.53
+2020,worldpop,Butha-Buthe,female,30,4580.81
+2020,worldpop,Butha-Buthe,female,35,3549.29
+2020,worldpop,Butha-Buthe,female,40,2399.53
+2020,worldpop,Butha-Buthe,female,45,1729.42
+2020,worldpop,Butha-Buthe,female,50,1304.77
+2020,worldpop,Butha-Buthe,female,55,1112.39
+2020,worldpop,Butha-Buthe,female,60,1049.25
+2020,worldpop,Butha-Buthe,female,65,951.07
+2020,worldpop,Butha-Buthe,female,70,684.5
+2020,worldpop,Butha-Buthe,female,75,360.64
+2020,worldpop,Butha-Buthe,female,80,386.64
+2020,worldpop,Butha-Buthe,male,0,1378.56
+2020,worldpop,Butha-Buthe,male,5,6495.93
+2020,worldpop,Butha-Buthe,male,10,6087.13
+2020,worldpop,Butha-Buthe,male,15,5672.89
+2020,worldpop,Butha-Buthe,male,20,5486.08
+2020,worldpop,Butha-Buthe,male,25,5081.49
+2020,worldpop,Butha-Buthe,male,30,4436.26
+2020,worldpop,Butha-Buthe,male,35,3714.02
+2020,worldpop,Butha-Buthe,male,40,2701.11
+2020,worldpop,Butha-Buthe,male,45,1909.57
+2020,worldpop,Butha-Buthe,male,50,1563.26
+2020,worldpop,Butha-Buthe,male,55,1282.89
+2020,worldpop,Butha-Buthe,male,60,1276.65
+2020,worldpop,Butha-Buthe,male,65,1104.19
+2020,worldpop,Butha-Buthe,male,70,754.87
+2020,worldpop,Butha-Buthe,male,75,411.08
+2020,worldpop,Butha-Buthe,male,80,304.43
+2020,worldpop,Leribe,female,0,3310.0
+2020,worldpop,Leribe,female,5,16197.08
+2020,worldpop,Leribe,female,10,15302.95
+2020,worldpop,Leribe,female,15,15070.03
+2020,worldpop,Leribe,female,20,15336.74
+2020,worldpop,Leribe,female,25,13750.17
+2020,worldpop,Leribe,female,30,12345.85
+2020,worldpop,Leribe,female,35,9702.73
+2020,worldpop,Leribe,female,40,6353.43
+2020,worldpop,Leribe,female,45,4462.22
+2020,worldpop,Leribe,female,50,3266.47
+2020,worldpop,Leribe,female,55,2826.01
+2020,worldpop,Leribe,female,60,2698.76
+2020,worldpop,Leribe,female,65,2280.29
+2020,worldpop,Leribe,female,70,1700.89
+2020,worldpop,Leribe,female,75,1014.82
+2020,worldpop,Leribe,female,80,957.43
+2020,worldpop,Leribe,male,0,3380.61
+2020,worldpop,Leribe,male,5,16662.52
+2020,worldpop,Leribe,male,10,15019.67
+2020,worldpop,Leribe,male,15,14160.62
+2020,worldpop,Leribe,male,20,13516.98
+2020,worldpop,Leribe,male,25,11990.24
+2020,worldpop,Leribe,male,30,10629.09
+2020,worldpop,Leribe,male,35,9818.05
+2020,worldpop,Leribe,male,40,6920.42
+2020,worldpop,Leribe,male,45,5118.51
+2020,worldpop,Leribe,male,50,3645.7
+2020,worldpop,Leribe,male,55,3188.54
+2020,worldpop,Leribe,male,60,3098.45
+2020,worldpop,Leribe,male,65,2707.9
+2020,worldpop,Leribe,male,70,1895.04
+2020,worldpop,Leribe,male,75,1101.23
+2020,worldpop,Leribe,male,80,881.4
+2020,worldpop,Mafeteng,female,0,2041.13
+2020,worldpop,Mafeteng,female,5,9830.46
+2020,worldpop,Mafeteng,female,10,9458.63
+2020,worldpop,Mafeteng,female,15,9772.56
+2020,worldpop,Mafeteng,female,20,9282.4
+2020,worldpop,Mafeteng,female,25,8225.01
+2020,worldpop,Mafeteng,female,30,7217.02
+2020,worldpop,Mafeteng,female,35,5578.68
+2020,worldpop,Mafeteng,female,40,3939.79
+2020,worldpop,Mafeteng,female,45,2786.32
+2020,worldpop,Mafeteng,female,50,2244.17
+2020,worldpop,Mafeteng,female,55,1874.32
+2020,worldpop,Mafeteng,female,60,1755.15
+2020,worldpop,Mafeteng,female,65,1639.43
+2020,worldpop,Mafeteng,female,70,1141.65
+2020,worldpop,Mafeteng,female,75,742.53
+2020,worldpop,Mafeteng,female,80,761.32
+2020,worldpop,Mafeteng,male,0,2119.44
+2020,worldpop,Mafeteng,male,5,10247.49
+2020,worldpop,Mafeteng,male,10,9549.48
+2020,worldpop,Mafeteng,male,15,9952.75
+2020,worldpop,Mafeteng,male,20,9182.25
+2020,worldpop,Mafeteng,male,25,7481.01
+2020,worldpop,Mafeteng,male,30,6588.59
+2020,worldpop,Mafeteng,male,35,5493.77
+2020,worldpop,Mafeteng,male,40,4230.41
+2020,worldpop,Mafeteng,male,45,3208.51
+2020,worldpop,Mafeteng,male,50,2423.73
+2020,worldpop,Mafeteng,male,55,2408.55
+2020,worldpop,Mafeteng,male,60,2228.66
+2020,worldpop,Mafeteng,male,65,1877.73
+2020,worldpop,Mafeteng,male,70,1386.54
+2020,worldpop,Mafeteng,male,75,714.58
+2020,worldpop,Mafeteng,male,80,629.39
+2020,worldpop,Maseru,female,0,5059.97
+2020,worldpop,Maseru,female,5,24036.38
+2020,worldpop,Maseru,female,10,22216.85
+2020,worldpop,Maseru,female,15,24065.82
+2020,worldpop,Maseru,female,20,29746.58
+2020,worldpop,Maseru,female,25,29330.84
+2020,worldpop,Maseru,female,30,24541.4
+2020,worldpop,Maseru,female,35,17838.3
+2020,worldpop,Maseru,female,40,10600.2
+2020,worldpop,Maseru,female,45,6944.08
+2020,worldpop,Maseru,female,50,5174.16
+2020,worldpop,Maseru,female,55,4409.97
+2020,worldpop,Maseru,female,60,3871.7
+2020,worldpop,Maseru,female,65,3362.76
+2020,worldpop,Maseru,female,70,2178.73
+2020,worldpop,Maseru,female,75,1320.82
+2020,worldpop,Maseru,female,80,1364.2
+2020,worldpop,Maseru,male,0,5239.08
+2020,worldpop,Maseru,male,5,23888.89
+2020,worldpop,Maseru,male,10,21534.2
+2020,worldpop,Maseru,male,15,21053.28
+2020,worldpop,Maseru,male,20,22948.45
+2020,worldpop,Maseru,male,25,22630.86
+2020,worldpop,Maseru,male,30,20653.48
+2020,worldpop,Maseru,male,35,17614.35
+2020,worldpop,Maseru,male,40,11917.01
+2020,worldpop,Maseru,male,45,7452.83
+2020,worldpop,Maseru,male,50,5677.27
+2020,worldpop,Maseru,male,55,4647.56
+2020,worldpop,Maseru,male,60,4402.47
+2020,worldpop,Maseru,male,65,3812.27
+2020,worldpop,Maseru,male,70,2517.47
+2020,worldpop,Maseru,male,75,1299.4
+2020,worldpop,Maseru,male,80,1153.52
+2020,worldpop,Mohale's Hoek,female,0,2039.42
+2020,worldpop,Mohale's Hoek,female,5,9425.5
+2020,worldpop,Mohale's Hoek,female,10,8608.73
+2020,worldpop,Mohale's Hoek,female,15,8547.09
+2020,worldpop,Mohale's Hoek,female,20,8125.1
+2020,worldpop,Mohale's Hoek,female,25,7006.5
+2020,worldpop,Mohale's Hoek,female,30,6157.3
+2020,worldpop,Mohale's Hoek,female,35,4997.94
+2020,worldpop,Mohale's Hoek,female,40,3466.98
+2020,worldpop,Mohale's Hoek,female,45,2413.06
+2020,worldpop,Mohale's Hoek,female,50,1938.58
+2020,worldpop,Mohale's Hoek,female,55,1712.17
+2020,worldpop,Mohale's Hoek,female,60,1645.47
+2020,worldpop,Mohale's Hoek,female,65,1506.82
+2020,worldpop,Mohale's Hoek,female,70,1145.91
+2020,worldpop,Mohale's Hoek,female,75,677.8
+2020,worldpop,Mohale's Hoek,female,80,732.5
+2020,worldpop,Mohale's Hoek,male,0,1990.3
+2020,worldpop,Mohale's Hoek,male,5,9519.89
+2020,worldpop,Mohale's Hoek,male,10,8677.04
+2020,worldpop,Mohale's Hoek,male,15,8324.6
+2020,worldpop,Mohale's Hoek,male,20,7873.33
+2020,worldpop,Mohale's Hoek,male,25,6626.69
+2020,worldpop,Mohale's Hoek,male,30,5642.72
+2020,worldpop,Mohale's Hoek,male,35,4993.47
+2020,worldpop,Mohale's Hoek,male,40,3836.47
+2020,worldpop,Mohale's Hoek,male,45,2721.31
+2020,worldpop,Mohale's Hoek,male,50,2222.51
+2020,worldpop,Mohale's Hoek,male,55,1943.07
+2020,worldpop,Mohale's Hoek,male,60,1924.03
+2020,worldpop,Mohale's Hoek,male,65,1653.11
+2020,worldpop,Mohale's Hoek,male,70,1256.58
+2020,worldpop,Mohale's Hoek,male,75,590.29
+2020,worldpop,Mohale's Hoek,male,80,512.81
+2020,worldpop,Mokhotlong,female,0,1726.45
+2020,worldpop,Mokhotlong,female,5,7948.75
+2020,worldpop,Mokhotlong,female,10,6479.69
+2020,worldpop,Mokhotlong,female,15,5581.19
+2020,worldpop,Mokhotlong,female,20,5653.07
+2020,worldpop,Mokhotlong,female,25,5161.55
+2020,worldpop,Mokhotlong,female,30,4700.8
+2020,worldpop,Mokhotlong,female,35,3138.85
+2020,worldpop,Mokhotlong,female,40,2285.51
+2020,worldpop,Mokhotlong,female,45,1457.32
+2020,worldpop,Mokhotlong,female,50,1216.7
+2020,worldpop,Mokhotlong,female,55,1048.15
+2020,worldpop,Mokhotlong,female,60,1028.75
+2020,worldpop,Mokhotlong,female,65,851.02
+2020,worldpop,Mokhotlong,female,70,870.97
+2020,worldpop,Mokhotlong,female,75,374.15
+2020,worldpop,Mokhotlong,female,80,453.51
+2020,worldpop,Mokhotlong,male,0,1749.06
+2020,worldpop,Mokhotlong,male,5,8243.74
+2020,worldpop,Mokhotlong,male,10,6550.33
+2020,worldpop,Mokhotlong,male,15,5815.6
+2020,worldpop,Mokhotlong,male,20,5034.24
+2020,worldpop,Mokhotlong,male,25,4771.0
+2020,worldpop,Mokhotlong,male,30,4420.25
+2020,worldpop,Mokhotlong,male,35,3332.65
+2020,worldpop,Mokhotlong,male,40,2414.97
+2020,worldpop,Mokhotlong,male,45,1651.17
+2020,worldpop,Mokhotlong,male,50,1310.55
+2020,worldpop,Mokhotlong,male,55,1215.1
+2020,worldpop,Mokhotlong,male,60,1146.08
+2020,worldpop,Mokhotlong,male,65,1040.38
+2020,worldpop,Mokhotlong,male,70,932.29
+2020,worldpop,Mokhotlong,male,75,415.8
+2020,worldpop,Mokhotlong,male,80,360.2
+2020,worldpop,Qacha's Nek,female,0,919.2
+2020,worldpop,Qacha's Nek,female,5,4588.37
+2020,worldpop,Qacha's Nek,female,10,4113.73
+2020,worldpop,Qacha's Nek,female,15,3824.11
+2020,worldpop,Qacha's Nek,female,20,3730.71
+2020,worldpop,Qacha's Nek,female,25,3267.12
+2020,worldpop,Qacha's Nek,female,30,3021.2
+2020,worldpop,Qacha's Nek,female,35,2168.6
+2020,worldpop,Qacha's Nek,female,40,1492.03
+2020,worldpop,Qacha's Nek,female,45,1024.7
+2020,worldpop,Qacha's Nek,female,50,821.87
+2020,worldpop,Qacha's Nek,female,55,740.72
+2020,worldpop,Qacha's Nek,female,60,640.07
+2020,worldpop,Qacha's Nek,female,65,654.8
+2020,worldpop,Qacha's Nek,female,70,541.32
+2020,worldpop,Qacha's Nek,female,75,281.08
+2020,worldpop,Qacha's Nek,female,80,305.76
+2020,worldpop,Qacha's Nek,male,0,912.38
+2020,worldpop,Qacha's Nek,male,5,4638.79
+2020,worldpop,Qacha's Nek,male,10,3873.8
+2020,worldpop,Qacha's Nek,male,15,3492.5
+2020,worldpop,Qacha's Nek,male,20,3146.41
+2020,worldpop,Qacha's Nek,male,25,2931.06
+2020,worldpop,Qacha's Nek,male,30,2541.96
+2020,worldpop,Qacha's Nek,male,35,2028.28
+2020,worldpop,Qacha's Nek,male,40,1655.53
+2020,worldpop,Qacha's Nek,male,45,1103.53
+2020,worldpop,Qacha's Nek,male,50,869.18
+2020,worldpop,Qacha's Nek,male,55,769.6
+2020,worldpop,Qacha's Nek,male,60,743.34
+2020,worldpop,Qacha's Nek,male,65,662.97
+2020,worldpop,Qacha's Nek,male,70,509.98
+2020,worldpop,Qacha's Nek,male,75,262.08
+2020,worldpop,Qacha's Nek,male,80,199.72
+2020,worldpop,Quthing,female,0,1425.81
+2020,worldpop,Quthing,female,5,7173.55
+2020,worldpop,Quthing,female,10,6687.89
+2020,worldpop,Quthing,female,15,6447.53
+2020,worldpop,Quthing,female,20,5985.27
+2020,worldpop,Quthing,female,25,5192.14
+2020,worldpop,Quthing,female,30,4771.67
+2020,worldpop,Quthing,female,35,3902.63
+2020,worldpop,Quthing,female,40,2696.1
+2020,worldpop,Quthing,female,45,1838.82
+2020,worldpop,Quthing,female,50,1538.6
+2020,worldpop,Quthing,female,55,1294.66
+2020,worldpop,Quthing,female,60,1262.66
+2020,worldpop,Quthing,female,65,1185.02
+2020,worldpop,Quthing,female,70,917.85
+2020,worldpop,Quthing,female,75,479.39
+2020,worldpop,Quthing,female,80,478.63
+2020,worldpop,Quthing,male,0,1489.94
+2020,worldpop,Quthing,male,5,7385.03
+2020,worldpop,Quthing,male,10,6647.27
+2020,worldpop,Quthing,male,15,6049.77
+2020,worldpop,Quthing,male,20,5627.49
+2020,worldpop,Quthing,male,25,4736.32
+2020,worldpop,Quthing,male,30,4247.64
+2020,worldpop,Quthing,male,35,3735.31
+2020,worldpop,Quthing,male,40,2716.36
+2020,worldpop,Quthing,male,45,2038.71
+2020,worldpop,Quthing,male,50,1711.06
+2020,worldpop,Quthing,male,55,1475.01
+2020,worldpop,Quthing,male,60,1463.63
+2020,worldpop,Quthing,male,65,1419.72
+2020,worldpop,Quthing,male,70,929.45
+2020,worldpop,Quthing,male,75,389.54
+2020,worldpop,Quthing,male,80,315.4
+2020,worldpop,Thaba-Tseka,female,0,1826.81
+2020,worldpop,Thaba-Tseka,female,5,9152.78
+2020,worldpop,Thaba-Tseka,female,10,7381.38
+2020,worldpop,Thaba-Tseka,female,15,6266.49
+2020,worldpop,Thaba-Tseka,female,20,5754.29
+2020,worldpop,Thaba-Tseka,female,25,5538.37
+2020,worldpop,Thaba-Tseka,female,30,4994.86
+2020,worldpop,Thaba-Tseka,female,35,3580.32
+2020,worldpop,Thaba-Tseka,female,40,2405.46
+2020,worldpop,Thaba-Tseka,female,45,1583.1
+2020,worldpop,Thaba-Tseka,female,50,1297.9
+2020,worldpop,Thaba-Tseka,female,55,1134.36
+2020,worldpop,Thaba-Tseka,female,60,1142.69
+2020,worldpop,Thaba-Tseka,female,65,1034.44
+2020,worldpop,Thaba-Tseka,female,70,938.75
+2020,worldpop,Thaba-Tseka,female,75,495.97
+2020,worldpop,Thaba-Tseka,female,80,536.88
+2020,worldpop,Thaba-Tseka,male,0,1896.98
+2020,worldpop,Thaba-Tseka,male,5,9161.01
+2020,worldpop,Thaba-Tseka,male,10,7283.0
+2020,worldpop,Thaba-Tseka,male,15,6122.9
+2020,worldpop,Thaba-Tseka,male,20,5403.36
+2020,worldpop,Thaba-Tseka,male,25,5132.34
+2020,worldpop,Thaba-Tseka,male,30,4961.18
+2020,worldpop,Thaba-Tseka,male,35,3699.18
+2020,worldpop,Thaba-Tseka,male,40,2800.8
+2020,worldpop,Thaba-Tseka,male,45,1774.09
+2020,worldpop,Thaba-Tseka,male,50,1447.44
+2020,worldpop,Thaba-Tseka,male,55,1290.68
+2020,worldpop,Thaba-Tseka,male,60,1364.05
+2020,worldpop,Thaba-Tseka,male,65,1262.13
+2020,worldpop,Thaba-Tseka,male,70,1073.97
+2020,worldpop,Thaba-Tseka,male,75,557.36
+2020,worldpop,Thaba-Tseka,male,80,511.44
+2020,facebook,lesotho,female,all_ages,1101980.43
+2020,facebook,lesotho,male,all_ages,1042916.4
+2020,facebook,Berea,female,all_ages,9422.37
+2020,facebook,Berea,male,all_ages,8398.22
+2020,facebook,Butha-Buthe,female,all_ages,73541.45
+2020,facebook,Butha-Buthe,male,all_ages,71884.98
+2020,facebook,Leribe,female,all_ages,188841.91
+2020,facebook,Leribe,male,all_ages,179462.05
+2020,facebook,Mafeteng,female,all_ages,116521.22
+2020,facebook,Mafeteng,male,all_ages,114820.13
+2020,facebook,Maseru,female,all_ages,316958.21
+2020,facebook,Maseru,male,all_ages,288361.71
+2020,facebook,Mohale's Hoek,female,all_ages,106569.49
+2020,facebook,Mohale's Hoek,male,all_ages,102065.54
+2020,facebook,Mokhotlong,female,all_ages,76694.0
+2020,facebook,Mokhotlong,male,all_ages,74860.59
+2020,facebook,Qacha's Nek,female,all_ages,48394.94
+2020,facebook,Qacha's Nek,male,all_ages,44155.53
+2020,facebook,Quthing,female,all_ages,80760.45
+2020,facebook,Quthing,male,all_ages,76390.52
+2020,facebook,Thaba-Tseka,female,all_ages,84276.39
+2020,facebook,Thaba-Tseka,male,all_ages,82517.13
