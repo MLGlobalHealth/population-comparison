@@ -9,3 +9,13 @@ g = g + geom_bar(stat="identity", aes(fill=data_source),position = "dodge2")
 g = g + facet_wrap(~ region,scales="free")
 g
 
+g = ggplot(df2[data_source != "census"],aes(x=age,y=population))
+g = g + geom_bar(stat="identity", aes(fill=data_source),position = "dodge2")
+g = g + facet_wrap(~ region,scales="free")
+g
+
+g = ggplot(data = df2,aes(x=age,y=population))
+g = g + geom_bar(stat="identity", aes(fill=data_source),position = "dodge2")
+g = g + facet_wrap(~ region,scales="free")
+g
+
