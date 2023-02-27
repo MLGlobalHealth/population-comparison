@@ -1,100 +1,100 @@
 data_source,region,age,population
-census,lesotho,children_under_five,417171.0
-census,lesotho,youth_15_24,558870.0
-census,lesotho,elderly_60_plus,1132277.0
-census,Berea,children_under_five,25200.0
-census,Berea,youth_15_24,31706.0
-census,Berea,elderly_60_plus,66668.0
-census,Butha-Buthe,children_under_five,71473.0
-census,Butha-Buthe,youth_15_24,96630.0
-census,Butha-Buthe,elderly_60_plus,194701.0
-census,Leribe,children_under_five,53052.0
-census,Leribe,youth_15_24,71122.0
-census,Leribe,elderly_60_plus,144627.0
-census,Mafeteng,children_under_five,105680.0
-census,Mafeteng,youth_15_24,158768.0
-census,Mafeteng,elderly_60_plus,299188.0
-census,Maseru,children_under_five,33728.0
-census,Maseru,youth_15_24,45596.0
-census,Maseru,elderly_60_plus,94995.0
-census,Mohale's Hoek,children_under_five,32724.0
-census,Mohale's Hoek,youth_15_24,42414.0
-census,Mohale's Hoek,elderly_60_plus,89603.0
-census,Mokhotlong,children_under_five,23194.0
-census,Mokhotlong,youth_15_24,30595.0
-census,Mokhotlong,elderly_60_plus,63340.0
-census,Qacha's Nek,children_under_five,16421.0
-census,Qacha's Nek,youth_15_24,20471.0
-census,Qacha's Nek,elderly_60_plus,42954.0
-census,Quthing,children_under_five,23399.0
-census,Quthing,youth_15_24,26521.0
-census,Quthing,elderly_60_plus,57507.0
-census,Thaba-Tseka,children_under_five,32300.0
-census,Thaba-Tseka,youth_15_24,35047.0
-census,Thaba-Tseka,elderly_60_plus,78694.0
-worldpop,lesotho,children_under_five,458908.6653125
-worldpop,lesotho,youth_15_24,574258.5234375
-worldpop,lesotho,elderly_60_plus,1156764.2356250002
-worldpop,Berea,children_under_five,66660.26000000001
-worldpop,Berea,youth_15_24,85950.29
-worldpop,Berea,elderly_60_plus,170728.15
-worldpop,Butha-Buthe,children_under_five,26618.0
-worldpop,Butha-Buthe,youth_15_24,33551.99
-worldpop,Butha-Buthe,elderly_60_plus,67453.31
-worldpop,Leribe,children_under_five,66640.13
-worldpop,Leribe,youth_15_24,83824.78
-worldpop,Leribe,elderly_60_plus,168801.12
-worldpop,Mafeteng,children_under_five,41084.21
-worldpop,Mafeteng,youth_15_24,53895.98
-worldpop,Mafeteng,elderly_60_plus,107857.17
-worldpop,Maseru,children_under_five,99924.12
-worldpop,Maseru,youth_15_24,149775.83000000002
-worldpop,Maseru,elderly_60_plus,274983.29000000004
-worldpop,Mohale's Hoek,children_under_five,39291.81
-worldpop,Mohale's Hoek,youth_15_24,46503.31
-worldpop,Mohale's Hoek,elderly_60_plus,97440.44
-worldpop,Mokhotlong,children_under_five,33740.21000000001
-worldpop,Mokhotlong,youth_15_24,32016.65
-worldpop,Mokhotlong,elderly_60_plus,73230.01000000001
-worldpop,Qacha's Nek,children_under_five,18474.89
-worldpop,Qacha's Nek,youth_15_24,20391.91
-worldpop,Qacha's Nek,elderly_60_plus,43667.92
-worldpop,Quthing,children_under_five,29279.85
-worldpop,Quthing,youth_15_24,34038.520000000004
-worldpop,Quthing,elderly_60_plus,72159.66
-worldpop,Thaba-Tseka,children_under_five,37114.810000000005
-worldpop,Thaba-Tseka,youth_15_24,34217.75
-worldpop,Thaba-Tseka,elderly_60_plus,80250.24
-fb,lesotho,children_under_five,233362.18
-fb,lesotho,youth_15_24,505817.06000000006
-fb,lesotho,elderly_60_plus,165371.99
-fb,Berea,children_under_five,1814.33
-fb,Berea,youth_15_24,4295.87
-fb,Berea,elderly_60_plus,1241.93
-fb,Butha-Buthe,children_under_five,15738.28
-fb,Butha-Buthe,youth_15_24,34522.1
-fb,Butha-Buthe,elderly_60_plus,11174.65
-fb,Leribe,children_under_five,38844.29
-fb,Leribe,youth_15_24,87233.98
-fb,Leribe,elderly_60_plus,28369.45
-fb,Mafeteng,children_under_five,23893.03
-fb,Mafeteng,youth_15_24,56777.94
-fb,Mafeteng,elderly_60_plus,19598.99
-fb,Maseru,children_under_five,60479.3
-fb,Maseru,youth_15_24,147580.07
-fb,Maseru,elderly_60_plus,39387.36
-fb,Mohale's Hoek,children_under_five,23274.79
-fb,Mohale's Hoek,youth_15_24,49221.49
-fb,Mohale's Hoek,elderly_60_plus,18259.75
-fb,Mokhotlong,children_under_five,20159.32
-fb,Mokhotlong,youth_15_24,33229.34
-fb,Mokhotlong,elderly_60_plus,11851.01
-fb,Qacha's Nek,children_under_five,10561.99
-fb,Qacha's Nek,youth_15_24,21187.36
-fb,Qacha's Nek,elderly_60_plus,7624.43
-fb,Quthing,children_under_five,16984.67
-fb,Quthing,youth_15_24,36278.21
-fb,Quthing,elderly_60_plus,13822.27
-fb,Thaba-Tseka,children_under_five,21612.18
-fb,Thaba-Tseka,youth_15_24,35490.7
-fb,Thaba-Tseka,elderly_60_plus,14042.15
+census,LESOTHO,children_under_five,417171.0
+census,LESOTHO,youth_15_24,558870.0
+census,LESOTHO,elderly_60_plus,1132277.0
+census,BEREA,children_under_five,25200.0
+census,BEREA,youth_15_24,31706.0
+census,BEREA,elderly_60_plus,66668.0
+census,BUTHA-BUTHE,children_under_five,71473.0
+census,BUTHA-BUTHE,youth_15_24,96630.0
+census,BUTHA-BUTHE,elderly_60_plus,194701.0
+census,LERIBE,children_under_five,53052.0
+census,LERIBE,youth_15_24,71122.0
+census,LERIBE,elderly_60_plus,144627.0
+census,MAFETENG,children_under_five,105680.0
+census,MAFETENG,youth_15_24,158768.0
+census,MAFETENG,elderly_60_plus,299188.0
+census,MASERU,children_under_five,33728.0
+census,MASERU,youth_15_24,45596.0
+census,MASERU,elderly_60_plus,94995.0
+census,MOHALE'S HOEK,children_under_five,32724.0
+census,MOHALE'S HOEK,youth_15_24,42414.0
+census,MOHALE'S HOEK,elderly_60_plus,89603.0
+census,MOKHOTLONG,children_under_five,23194.0
+census,MOKHOTLONG,youth_15_24,30595.0
+census,MOKHOTLONG,elderly_60_plus,63340.0
+census,QACHA'S NEK,children_under_five,16421.0
+census,QACHA'S NEK,youth_15_24,20471.0
+census,QACHA'S NEK,elderly_60_plus,42954.0
+census,QUTHING,children_under_five,23399.0
+census,QUTHING,youth_15_24,26521.0
+census,QUTHING,elderly_60_plus,57507.0
+census,THABA-TSEKA,children_under_five,32300.0
+census,THABA-TSEKA,youth_15_24,35047.0
+census,THABA-TSEKA,elderly_60_plus,78694.0
+worldpop,LESOTHO,children_under_five,458908.6653125
+worldpop,LESOTHO,youth_15_24,574258.5234375
+worldpop,LESOTHO,elderly_60_plus,1156764.2356250002
+worldpop,BEREA,children_under_five,66561.10999999999
+worldpop,BEREA,youth_15_24,85856.73999999999
+worldpop,BEREA,elderly_60_plus,170505.5
+worldpop,BUTHA-BUTHE,children_under_five,26699.68
+worldpop,BUTHA-BUTHE,youth_15_24,33654.71
+worldpop,BUTHA-BUTHE,elderly_60_plus,67660.20999999999
+worldpop,LERIBE,children_under_five,66483.76
+worldpop,LERIBE,youth_15_24,83629.3
+worldpop,LERIBE,elderly_60_plus,168406.02000000002
+worldpop,MAFETENG,children_under_five,38417.28
+worldpop,MAFETENG,youth_15_24,50402.87
+worldpop,MAFETENG,elderly_60_plus,100850.15
+worldpop,MASERU,children_under_five,101703.22
+worldpop,MASERU,youth_15_24,152019.75
+worldpop,MASERU,elderly_60_plus,279574.61
+worldpop,MOHALE'S HOEK,children_under_five,40232.45
+worldpop,MOHALE'S HOEK,youth_15_24,47786.5
+worldpop,MOHALE'S HOEK,elderly_60_plus,99956.69
+worldpop,MOKHOTLONG,children_under_five,33693.9
+worldpop,MOKHOTLONG,youth_15_24,31973.01
+worldpop,MOKHOTLONG,elderly_60_plus,73130.03
+worldpop,QACHA'S NEK,children_under_five,18513.27
+worldpop,QACHA'S NEK,youth_15_24,20435.47
+worldpop,QACHA'S NEK,elderly_60_plus,43760.8
+worldpop,QUTHING,children_under_five,29250.870000000003
+worldpop,QUTHING,youth_15_24,34004.4
+worldpop,QUTHING,elderly_60_plus,72087.51
+worldpop,THABA-TSEKA,children_under_five,37307.5
+worldpop,THABA-TSEKA,youth_15_24,34443.24
+worldpop,THABA-TSEKA,elderly_60_plus,80722.61
+facebook,LESOTHO,children_under_five,233385.09000000003
+facebook,LESOTHO,youth_15_24,505863.6600000001
+facebook,LESOTHO,elderly_60_plus,165389.48
+facebook,BEREA,children_under_five,1833.24
+facebook,BEREA,youth_15_24,4331.45
+facebook,BEREA,elderly_60_plus,1259.41
+facebook,BUTHA-BUTHE,children_under_five,15788.51
+facebook,BUTHA-BUTHE,youth_15_24,34634.4
+facebook,BUTHA-BUTHE,elderly_60_plus,11211.13
+facebook,LERIBE,children_under_five,38722.45
+facebook,LERIBE,youth_15_24,86955.71
+facebook,LERIBE,elderly_60_plus,28280.16
+facebook,MAFETENG,children_under_five,22381.4
+facebook,MAFETENG,youth_15_24,53320.21
+facebook,MAFETENG,elderly_60_plus,18523.63
+facebook,MASERU,children_under_five,61462.73
+facebook,MASERU,youth_15_24,149906.93
+facebook,MASERU,elderly_60_plus,40058.49
+facebook,MOHALE'S HOEK,children_under_five,23763.89
+facebook,MOHALE'S HOEK,youth_15_24,50275.03
+facebook,MOHALE'S HOEK,elderly_60_plus,18633.22
+facebook,MOKHOTLONG,children_under_five,20139.79
+facebook,MOKHOTLONG,youth_15_24,33198.1
+facebook,MOKHOTLONG,elderly_60_plus,11840.14
+facebook,QACHA'S NEK,children_under_five,10582.78
+facebook,QACHA'S NEK,youth_15_24,21229.72
+facebook,QACHA'S NEK,elderly_60_plus,7640.28
+facebook,QUTHING,children_under_five,16979.38
+facebook,QUTHING,youth_15_24,36267.21
+facebook,QUTHING,elderly_60_plus,13818.37
+facebook,THABA-TSEKA,children_under_five,21730.92
+facebook,THABA-TSEKA,youth_15_24,35744.9
+facebook,THABA-TSEKA,elderly_60_plus,14124.65
